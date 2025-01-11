@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+        "id": "1.5.0",
+        "releasedAt": 20251101,
+        "promotions": {
+            "downloads": {
+
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/techsert/files/6068386"
+            }
+        }
+    }
+]
